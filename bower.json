@@ -2,7 +2,7 @@
   "name": "time-service",
   "description": "Time management service.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "time.js",
