@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.time.service').service(
+angular.module('cc.time.service', []).service(
     'time', ['$filter',
     function( $filter){
     this._mockedNowDate;
