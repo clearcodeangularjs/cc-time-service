@@ -1,11 +1,11 @@
 {
-	"name": "time-service",
+	"name": "cc-time-service",
 	"description": "Time management service.",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"version": "1.0.0",
-	"main": "time.js",
+	"main": "scripts/services/time.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
