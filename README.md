@@ -5,7 +5,7 @@ This service consists of methods that operate on time object.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-time-service --save ```
 
 
 Usage
